@@ -1,21 +1,11 @@
 <div align="center">
 
-  <img src="./public/Prisma-Emblema.png" alt="logo" width="200" height="auto" />
   <h1 >Tasks </h1>
   
   <p>
     Mean Stack Crud Task application
   </p>
   
-  
-<h4>
-    <a href="https://github.com/hicmtrex/Cooper-Shop">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/hicmtrex/TypeShop-Frontend/issues/">Report Bug</a>
-    <a href="https://github.com/hicmtrex/TypeShop-Frontend/issues/">Frontend</a>
-  <span> · </span>
-    <a href="https://github.com/hicmtrex/TypeShop-Backend">Backend</a>
-  </h4>
 </div>
 
 <br />
@@ -51,7 +41,7 @@
 <details>
   <summary>👉 Backend Repo</summary>
      <ul>
-  <a href="https://github.com/hicmtrex/Prisma-Shop-Front">prismashop-backend</a>
+  <a href="https://github.com/hicmtrex/Crud_Task_Server.git">prismashop-backend</a>
      </ul>
   
 </details>
@@ -64,7 +54,6 @@
 - Admin Dashboard Tasks
 - Admin Content management system
 - User Dashboard Tasks
-- Stripe payment
 
 ## :toolbox: Getting Started
 
@@ -106,7 +95,7 @@ To run tests, run the following command
 Clone the project
 
 ```bash
-  git clone https://github.com/hicmtrex/Prisma-Shop-Server
+  git clone https://github.com/hicmtrex/Crud_Task_Front.git
 ```
 
 Go to the project directory
